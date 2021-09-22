@@ -1,0 +1,6 @@
+/Users/kamaletdinovt/Desktop/калькулятор/калькулятор/bin/Debug/калькулятор.exe
+/Users/kamaletdinovt/Desktop/калькулятор/калькулятор/bin/Debug/калькулятор.pdb
+/Users/kamaletdinovt/Desktop/калькулятор/калькулятор/obj/Debug/калькулятор.csproj.AssemblyReference.cache
+/Users/kamaletdinovt/Desktop/калькулятор/калькулятор/obj/Debug/калькулятор.csproj.CoreCompileInputs.cache
+/Users/kamaletdinovt/Desktop/калькулятор/калькулятор/obj/Debug/калькулятор.exe
+/Users/kamaletdinovt/Desktop/калькулятор/калькулятор/obj/Debug/калькулятор.pdb
